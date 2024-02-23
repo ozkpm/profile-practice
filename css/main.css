@@ -1,0 +1,29 @@
+.main-body {
+    width: 800px;
+    padding: 10px 20px;
+    margin: 10px auto;
+    background-color: #FFFFFF;
+}
+
+body {
+    background-color: #EADDFF;
+}
+
+h1 {
+    background-color: #21005D;
+    color: #FFFFFF;
+}
+
+h2 {
+    background-color: #6750A4;
+    color: #FFFFFF;
+}
+
+.green > body {
+    background-color: #8CD790;
+}
+
+.green.main-body {
+    background-color: #285943;
+    color: #FFFFFF;
+}
